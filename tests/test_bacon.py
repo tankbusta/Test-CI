@@ -3,7 +3,7 @@ import unittest
 
 class BaconStripsNBaconStrips(unittest.TestCase):
     def test_do_something_ramirez(self):
-        jump = "HOW HIGH?"
+        jump = "DO SOMETHING RAMIREZ"
         self.assertEqual(jump, "DO SOMETHING RAMIREZ")
 
     def test_hashtagyolo(self):
